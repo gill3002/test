@@ -64,7 +64,7 @@
 					<schemaVersion>v2</schemaVersion>
 					<resourceGroup>maven-plugin</resourceGroup>
 					<appName>Spring-App-Thiago-Negri</appName>
-					<region>West US</region>
+					<region>East US</region>
 					<runtime>
 						<os>linux</os>
 						<javaVersion>jre8</javaVersion>
